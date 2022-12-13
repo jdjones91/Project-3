@@ -24,6 +24,7 @@ Part 4:
 
 "Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?"
 - Using an ANOVA Test with an Alpha = 0.05, I found that there IS a statistically significant difference in revenue generation across MPAA ratings, with PG movies grossing the highest, on average.
+  - Provided is a simple bar graph visually demonstrating this point
 
 
 ![Screenshot 2022-12-13 at 1 45 21 PM](https://user-images.githubusercontent.com/109368648/207439950-829a4fa3-8a05-4a9e-8186-7afdee3d8f10.png)
